@@ -1,0 +1,71 @@
+*{
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+body{
+    width: 100%;
+    list-style:6px;
+}
+header{
+    text-align: center;
+    color: aqua;
+    padding: 5px;
+    background-color: limegreen;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    height: 100px;
+    width: 100%;
+}
+nav>a{
+color: white;
+margin: 5px;
+transition: all 0.5s linear;
+
+}
+nav>a:hover{
+    color: rgb(166, 244, 10);
+    text-decoration: blue underline;}
+    
+
+nav{
+    background-color: brown;
+    height: 2.5pc;
+    padding: 5px;
+    text-align: center;
+    position: sticky;
+    top: 0px;
+}
+.con{
+    height: 200px;
+    background-color: bisque;
+    border: 3px solid brown;
+    padding: 0px;
+
+}
+h2{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+text-decoration: blue underline;
+}
+.con1{
+    background-color:gold;
+}
+.con2{
+    background-color: aqua;
+}
+.con3{
+    background-color: darkorange;
+}
+.con4{
+    background-color: fuchsia;
+}
+.con5{
+    background-color: crimson;
+
+}
+.con6{
+    background-color:silver;
+}
+
+.con7{
+    background-color:honeydew;
+}
